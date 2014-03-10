@@ -1,0 +1,13 @@
+{
+  "name": "newsletter.idex",
+  "description": "Dev package for newsletter",
+  "version": "0.1.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/sebastienfilion/newsletter.idex"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-email-builder": "~1.1.0"
+  }
+}
